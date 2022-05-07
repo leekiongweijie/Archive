@@ -1,5 +1,3 @@
-# Open Source Project
-
 - Computing
 	- DL
 		- [jax](https://github.com/google/jax) - Composable transformations of Python+NumPy 
