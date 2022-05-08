@@ -8,8 +8,6 @@
 		- [optax](https://github.com/deepmind/optax) - Optax is a gradient processing and optimization library for JAX
 		- [dm-haiku](https://github.com/deepmind/dm-haiku) - JAX-based neural network library
 		- [keras-tuner](https://github.com/keras-team/keras-tuner) - Hyperparameter tuning for humans
-
-
 	- ML
 		- [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 		- [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
@@ -18,51 +16,37 @@
 		- [xgboost](https://github.com/dmlc/xgboost) - Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) 
 		- [LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks
 		- [Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
-
-
 	- NLP
 		- [transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX
 		- [spaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) in Python
 		- [nltk](https://github.com/nltk/nltk) - NLTK Source
 		- [flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 		- [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
-
-
-
 	- General
 		- [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python
 		- [scipy](https://github.com/scipy/scipy) - SciPy library main repository
 		- [numba](https://github.com/numba/numba) - NumPy aware dynamic Python compile	r using LLVM
 		- [sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 		- [onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
-
-
 	- Stats
 		- [statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
 		- [pmdarima](https://github.com/alkaline-ml/pmdarima) - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function
-	
-
 	- Automl
 		- [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning
-	
 	- Probabilistic
 		- [numpyro](https://github.com/pyro-ppl/numpyro) - Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation to GPU/TPU/CPU
-
-
+		- [pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
 	- RL
 		- [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms
-	
 	- Computer Vision
 		- [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 		- [vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision
-
-	
+		- 
 - Extensions
 	- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox
 	- [refined-github](https://github.com/refined-github/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
 	- [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean
 	- [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
-
 
 - Analysis
 	- [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
@@ -70,7 +54,6 @@
 	- [networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 	- [ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library
 	- [dask](https://github.com/dask/dask) - Parallel computing with task scheduling
-
 
 - Applications
 	- [openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
@@ -92,7 +75,8 @@
 	- [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 	- [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 	- [UnrealEngine](https://github.com/EpicGames/UnrealEngine) - Unreal Engine source code
-
+	- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more
+	- [Ciphey](https://github.com/Ciphey/Ciphey) - Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes
 
 - Visualize
 	- [matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
@@ -102,7 +86,6 @@
 	- [deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 	- [Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
 	- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library
-
 
 - Helpers
 	- [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
@@ -121,7 +104,7 @@
 	- [langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library to Python
 	- [deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators
 	- [wandb](https://github.com/wandb/client) - A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API
-
+	- [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you
 
 - Collections
 	- [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products
@@ -132,7 +115,6 @@
 	- [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 	- [deepmind-research-notebook](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 
-
 - Algorithms
 	- [RapidFuzz](https://github.com/maxbachmann/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
 	- [rake-nltk](https://github.com/csurfer/rake-nltk) - Python implementation of the Rapid Automatic Keyword Extraction algorithm using NLTK
@@ -141,7 +123,6 @@
 	- [hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - A high performance implementation of HDBSCAN clustering
 	- [KeyBERT](https://github.com/MaartenGr/KeyBERT) - Minimal keyword extraction with BERT
 	- [umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection
-
 
 - Roots
 	- [julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
