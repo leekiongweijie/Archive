@@ -23,3 +23,4 @@
 23. 只有言论的自由，没有言论后的自由。
 24. Too familiar to ignore, but too different to tolerate.
 25. 政就是众人之事，治就是管理，管理众人之事就是政治，而我们是众人之一，政治都跟我们有关系。
+26. There are two ways to conquer and enslave a country. One is by the sword. The other is by debt.
