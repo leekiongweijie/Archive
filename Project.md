@@ -89,7 +89,7 @@
 89. [bookreader](https://github.com/internetarchive/bookreader) - The Internet Archive BookReader
 90. [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever
 91. [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more
-
+92. [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - Visualize your JSON data onto graphs seamlessly.
 
 
 
