@@ -26,3 +26,4 @@
 26. There are two ways to conquer and enslave a country. One is by the sword. The other is by debt.
 27. 信托，言而有信，受人所托。
 28. The perfect inheritance is enough money so that they feel they can do anything, but not so much, that they could do nothing.
+29. 生命诚可贵，爱情价更高，苦为自由故，两者皆可抛。
